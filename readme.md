@@ -16,6 +16,7 @@ who needs leads for the Health Insurance offered by the companyOur business team
 
 Prototype: https://www.figma.com/proto/sBvGNxHv8XjraQvKBN71jc/Landing?page-id=0%3A1&node-id=2%3A2&viewport=746%2C-551%2C0.2854866683483124&scaling=min-zoom
 
+Link projeto: https://jeffbeu.github.io/Actualsales-Desafio/
 
 ## Run tests
 
