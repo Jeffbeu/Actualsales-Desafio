@@ -1,12 +1,12 @@
 <h1 align="center">ActualSales-Desafio</h1>
 <p>
   <a href="#" target="_blank">
-    <img alt="License: ISC" src="images/Screenshot_1.png" />
+    <img alt="License: ISC" src="https://github.com/Jeffbeu/Actualsales-Desafio/blob/master/front-end/images/Screenshot_1.png" />
   </a>
 </p>
 <h1 align="center">Desafio</h1>
 <br />
-<h3>Português<h3>
+<h3>Português</h3>
 > Nossa equipe de negócios solicitou o desenvolvimento de uma página de desembarque para o cliente HealthMax
 que precisa de leads para o Seguro de Saúde oferecido pela empresa Nossa equipe de negócios solicitou o desenvolvimento de uma landing page para o cliente HealthMax que precisa de leads para o Seguro de Saúde oferecido pela empresa..
 
